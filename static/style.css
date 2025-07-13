@@ -1,0 +1,93 @@
+/* Reset Base */
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  direction: rtl;
+  font-family: Arial, sans-serif;
+  background: url('/static/background.png') no-repeat center top;
+  background-size: cover;
+  color: #fff;
+  overflow-x: hidden;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  width: 100%;
+  max-width: 900px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.logo { height: 60px; }
+.social .icon { width: 40px; margin-left: 10px; cursor: pointer; }
+
+/* Main Title */
+.main-title {
+  margin: 0 0 20px;
+  font-size: 36px;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+}
+
+/* Form Wrapper */
+.form-wrapper {
+
+  padding: 30px;
+  border-radius: 10px;
+  display: grid;
+  row-gap: 20px;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+}
+.label-img {
+  width: 250px;
+  margin: 0 auto;
+  display: block;
+}
+#topic, #voice {
+  width: 100%;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+#generate-btn {
+  padding: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  background: linear-gradient(135deg, #6f5af6, #c15af6);
+  border:none;
+  border-radius:35px;
+  color:#fff;
+  cursor:pointer;
+  box-shadow: 0 0 15px rgba(111,90,246,0.6);
+}
+
+/* Log Box */
+#log-box {
+  margin: 30px 0;
+  width: 100%;
+  max-width: 800px;
+  height: 200px;
+  background: transparent;     /* شفاف بدل الأسود */
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 16px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+}
+
+/* Footer */
+footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #ccc;
+}
