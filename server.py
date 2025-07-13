@@ -56,7 +56,6 @@ from utils.voice_gen import voice_main
 from utils.video_creation import video_main
 
 # ───────────────────────────────────────────────────────────────────────────────
-# تحديد مسار التشغيل (للتوافق مع PyInstaller onefile)
 # ───────────────────────────────────────────────────────────────────────────────
 BASE = getattr(sys, "_MEIPASS", os.getcwd())
 
