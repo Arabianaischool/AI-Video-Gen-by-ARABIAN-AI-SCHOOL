@@ -1,12 +1,18 @@
 # AI Video Generator
 
-> ** An AI Video Generator tool developed by the “Arabian AI School” YouTube channel**  
-> YouTube: https://www.youtube.com/@ArabianAiSchool  
-> Instagram: https://www.instagram.com/arabianaischool  
-> Facebook: https://www.facebook.com/arabianaischool  
-> Twitter: https://twitter.com/arabianaischool  
-> Email: arabianaischool@gmail.com  
-> Tutorial video & more info: https://www.youtube.com/watch?v=ICXJxn2mv08  
+🎥 An AI Video Generator tool developed by the “Arabian AI School” YouTube channel
+
+🎬 YouTube: https://www.youtube.com/@ArabianAiSchool
+
+📸 Instagram: https://www.instagram.com/arabianaischool
+
+👍 Facebook: https://www.facebook.com/arabianaischool
+
+🐦 Twitter: https://twitter.com/arabianaischool
+
+✉️ Email: arabianaischool@gmail.com
+
+▶️ Tutorial Video & More Info: https://www.youtube.com/watch?v=ICXJxn2mv08
 
 ---
 
