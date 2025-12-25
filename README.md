@@ -12,8 +12,7 @@
 
 ✉️ Email: arabianaischool@gmail.com
 
-▶️ Tutorial Video & More Info & download the exe : https://www.youtube.com/watch?v=ICXJxn2mv08
-
+▶️ Tutorial Video & More Info on the channel
 ---
 
 ## 🚀 Project Overview
